@@ -394,7 +394,7 @@ body {
 }
 
 .button7 {
-    font-weight: 700;
+    font-weight: 50;
     color: white;
     text-decoration: none;
     padding: .8em 1em calc(.8em + 3px);
